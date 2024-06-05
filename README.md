@@ -1,4 +1,4 @@
-# ADAEstudos/Versionamento
+# ADAEstudos Git log e restore
 
 
-## salvando modificacoes no git
+## Salvando alteraracao
